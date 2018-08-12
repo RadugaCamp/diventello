@@ -8,6 +8,8 @@
    `git clone git@github.com:RadugaCamp/xx-songs.git`
 - Download Framework7
    https://github.com/framework7io/Framework7/releases/  [v.3.0.7]
+- Install framework (etc. gulp + framework)
+  https://github.com/framework7io/framework7#getting-started
 
 ## Development
 
