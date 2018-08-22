@@ -12,7 +12,7 @@
 
 |image|image|image|
 |-|-|-|
-|![songs 1-100 Diventello - Сборник песен лагеря Радуга DiventelloSongs](https://github.com/RadugaCamp/diventello/releases/download/v1.0.5/photo_2018-08-22_10-02-59_41p.jpg)|![song 91 - 100 Diventello - Сборник песен лагеря Радуга DiventelloSongs](https://github.com/RadugaCamp/diventello/releases/download/v1.0.5/photo_2018-08-22_10-03-05_41p.jpg)|![ 100 Приношу Христу хвалу Diventello - Сборник песен лагеря Радуга DiventelloSongs](https://github.com/RadugaCamp/diventello/releases/download/v1.0.5/photo_2018-08-22_10-03-08_41p.jpg)|
+|![songs 1-100 Diventello - Сборник песен лагеря Радуга DiventelloSongs](https://www.osarts.ru/portfolio/diventello/static/img/photo_2018-08-22_10-02-59_41p.jpg?utm&source=github&project=Diventello&ver=1.0.5&screenshot=1)|![song 91 - 100 Diventello - Сборник песен лагеря Радуга DiventelloSongs](https://www.osarts.ru/portfolio/diventello/static/img/photo_2018-08-22_10-03-05_41p.jpg?utm&source=github&project=Diventello&ver=1.0.5&screenshot=2)|![ 100 Приношу Христу хвалу Diventello - Сборник песен лагеря Радуга DiventelloSongs](https://www.osarts.ru/portfolio/diventello/static/img/photo_2018-08-22_10-03-08_41p.jpg?utm&source=github&project=Diventello&ver=1.0.5&screenshot=3)|
 
 ## Plans
 
