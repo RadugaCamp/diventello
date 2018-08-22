@@ -2,11 +2,11 @@
 
 ## Content
 
-- [Screenshots](#Screenshots)
-- [Plans](#Plans)
-- [Stages](#Stages)
-- [Versioning](#Versioning)
-- [Copyright](#Copyright)
+- [Screenshots](#screenshots)
+- [Plans](#plans)
+- [Stages](#stages)
+- [Versioning](#versioning)
+- [Copyright](#copyright)
 
 ## Screenshots prototype App "Diventello"
 
