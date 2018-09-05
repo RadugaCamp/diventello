@@ -32,11 +32,11 @@ export default [
     component: require("./assets/vue/pages/vuex.vue")
   },
 
-    /* TODO 
+  /* TODO 
       create array of paths in var
       create array of number of song in var
   */
-  
+
   {
     path: "/songs/song-001/",
     component: require("./assets/vue/pages/songs/song-001.vue")
@@ -436,5 +436,85 @@ export default [
   {
     path: "/songs/song-100/",
     component: require("./assets/vue/pages/songs/song-100.vue")
+  },
+  {
+    path: "/songs/song-101/",
+    component: require("./assets/vue/pages/songs/song-101.vue")
+  },
+  {
+    path: "/songs/song-102/",
+    component: require("./assets/vue/pages/songs/song-102.vue")
+  },
+  {
+    path: "/songs/song-103/",
+    component: require("./assets/vue/pages/songs/song-103.vue")
+  },
+  {
+    path: "/songs/song-104/",
+    component: require("./assets/vue/pages/songs/song-104.vue")
+  },
+  {
+    path: "/songs/song-105/",
+    component: require("./assets/vue/pages/songs/song-105.vue")
+  },
+  {
+    path: "/songs/song-106/",
+    component: require("./assets/vue/pages/songs/song-106.vue")
+  },
+  {
+    path: "/songs/song-107/",
+    component: require("./assets/vue/pages/songs/song-107.vue")
+  },
+  {
+    path: "/songs/song-108/",
+    component: require("./assets/vue/pages/songs/song-108.vue")
+  },
+  {
+    path: "/songs/song-109/",
+    component: require("./assets/vue/pages/songs/song-109.vue")
+  },
+  {
+    path: "/songs/song-110/",
+    component: require("./assets/vue/pages/songs/song-110.vue")
+  },
+  {
+    path: "/songs/song-111/",
+    component: require("./assets/vue/pages/songs/song-111.vue")
+  },
+  {
+    path: "/songs/song-112/",
+    component: require("./assets/vue/pages/songs/song-112.vue")
+  },
+  {
+    path: "/songs/song-113/",
+    component: require("./assets/vue/pages/songs/song-113.vue")
+  },
+  {
+    path: "/songs/song-114/",
+    component: require("./assets/vue/pages/songs/song-114.vue")
+  },
+  {
+    path: "/songs/song-115/",
+    component: require("./assets/vue/pages/songs/song-115.vue")
+  },
+  {
+    path: "/songs/song-116/",
+    component: require("./assets/vue/pages/songs/song-116.vue")
+  },
+  {
+    path: "/songs/song-117/",
+    component: require("./assets/vue/pages/songs/song-117.vue")
+  },
+  {
+    path: "/songs/song-118/",
+    component: require("./assets/vue/pages/songs/song-118.vue")
+  },
+  {
+    path: "/songs/song-119/",
+    component: require("./assets/vue/pages/songs/song-119.vue")
+  },
+  {
+    path: "/songs/song-120/",
+    component: require("./assets/vue/pages/songs/song-120.vue")
   }
 ];
