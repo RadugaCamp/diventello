@@ -12,7 +12,7 @@
       <f7-list-item link="/about/" title="О приложении" panel-close>
         <f7-icon slot="media" icon="fa fa-info fa-fw"></f7-icon>
       </f7-list-item>
-      <f7-list-item><p><strong>Доступны песни</strong> <mark>1-140</mark></p></f7-list-item>
+      <f7-list-item><p><strong>Доступны песни</strong> <mark>1-152</mark></p></f7-list-item>
       <f7-list-item>
         <!-- Button send review-->
         <div>
@@ -26,7 +26,7 @@
         </div>
         <!-- /END Button send review-->
       </f7-list-item>
-      <f7-list-item>ver. 1.0.9</f7-list-item>
+      <f7-list-item>ver. 1.0.10</f7-list-item>
     </f7-list>
 
     <f7-list>

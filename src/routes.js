@@ -516,5 +516,133 @@ export default [
   {
     path: "/songs/song-120/",
     component: require("./assets/vue/pages/songs/song-120.vue")
+  },
+  {
+    path: "/songs/song-121/",
+    component: require("./assets/vue/pages/songs/song-121.vue")
+  },
+  {
+    path: "/songs/song-122/",
+    component: require("./assets/vue/pages/songs/song-122.vue")
+  },
+  {
+    path: "/songs/song-123/",
+    component: require("./assets/vue/pages/songs/song-123.vue")
+  },
+  {
+    path: "/songs/song-124/",
+    component: require("./assets/vue/pages/songs/song-124.vue")
+  },
+  {
+    path: "/songs/song-125/",
+    component: require("./assets/vue/pages/songs/song-125.vue")
+  },
+  {
+    path: "/songs/song-126/",
+    component: require("./assets/vue/pages/songs/song-126.vue")
+  },
+  {
+    path: "/songs/song-127/",
+    component: require("./assets/vue/pages/songs/song-127.vue")
+  },
+  {
+    path: "/songs/song-128/",
+    component: require("./assets/vue/pages/songs/song-128.vue")
+  },
+  {
+    path: "/songs/song-129/",
+    component: require("./assets/vue/pages/songs/song-129.vue")
+  },
+  {
+    path: "/songs/song-130/",
+    component: require("./assets/vue/pages/songs/song-130.vue")
+  },
+  {
+    path: "/songs/song-131/",
+    component: require("./assets/vue/pages/songs/song-131.vue")
+  },
+  {
+    path: "/songs/song-132/",
+    component: require("./assets/vue/pages/songs/song-132.vue")
+  },
+  {
+    path: "/songs/song-133/",
+    component: require("./assets/vue/pages/songs/song-133.vue")
+  },
+  {
+    path: "/songs/song-134/",
+    component: require("./assets/vue/pages/songs/song-134.vue")
+  },
+  {
+    path: "/songs/song-135/",
+    component: require("./assets/vue/pages/songs/song-135.vue")
+  },
+  {
+    path: "/songs/song-136/",
+    component: require("./assets/vue/pages/songs/song-136.vue")
+  },
+  {
+    path: "/songs/song-137/",
+    component: require("./assets/vue/pages/songs/song-137.vue")
+  },
+  {
+    path: "/songs/song-138/",
+    component: require("./assets/vue/pages/songs/song-138.vue")
+  },
+  {
+    path: "/songs/song-139/",
+    component: require("./assets/vue/pages/songs/song-139.vue")
+  },
+  {
+    path: "/songs/song-140/",
+    component: require("./assets/vue/pages/songs/song-140.vue")
+  },
+  {
+    path: "/songs/song-141/",
+    component: require("./assets/vue/pages/songs/song-141.vue")
+  },
+  {
+    path: "/songs/song-142/",
+    component: require("./assets/vue/pages/songs/song-142.vue")
+  },
+  {
+    path: "/songs/song-143/",
+    component: require("./assets/vue/pages/songs/song-143.vue")
+  },
+  {
+    path: "/songs/song-144/",
+    component: require("./assets/vue/pages/songs/song-144.vue")
+  },
+  {
+    path: "/songs/song-145/",
+    component: require("./assets/vue/pages/songs/song-145.vue")
+  },
+  {
+    path: "/songs/song-146/",
+    component: require("./assets/vue/pages/songs/song-146.vue")
+  },
+  {
+    path: "/songs/song-147/",
+    component: require("./assets/vue/pages/songs/song-147.vue")
+  },
+  {
+    path: "/songs/song-148/",
+    component: require("./assets/vue/pages/songs/song-148.vue")
+  },
+  {
+    path: "/songs/song-149/",
+    component: require("./assets/vue/pages/songs/song-149.vue")
+  },
+  {
+    path: "/songs/song-150/",
+    component: require("./assets/vue/pages/songs/song-150.vue")
+  },
+  {
+    path: "/songs/song-151/",
+    component: require("./assets/vue/pages/songs/song-151.vue")
+  },
+  {
+    path: "/songs/song-152/",
+    component: require("./assets/vue/pages/songs/song-152.vue")
   }
 ];
