@@ -9,8 +9,8 @@
       <f7-list-item link="/songs/song-002/" title="002. Аллилуя" panel-close></f7-list-item>
       <f7-list-item link="/songs/song-003/" title="003. Бесценный дар любви" panel-close></f7-list-item>
       <f7-list-item link="/songs/song-004/" title="004. Благодарю, Создатель мой" panel-close></f7-list-item>
-      <f7-list-item link="/songs/song-005/" title="005. Бога я вижу" panel-close></f7-list-item>
-      <f7-list-item link="/songs/song-006/" title="006. Бог любви" panel-close></f7-list-item>
+      <f7-list-item link="/songs/song-006/" title="005. Бога я вижу" panel-close></f7-list-item>
+      <f7-list-item link="/songs/song-005/" title="006. Бог любви" panel-close></f7-list-item>
       <f7-list-item link="/songs/song-007/" title="007. Боже, спасибо" panel-close></f7-list-item>
       <f7-list-item link="/songs/song-008/" title="008. Божий дизайн" panel-close></f7-list-item>
       <f7-list-item link="/songs/song-009/" title="009. Будь верен в испытаниях" panel-close></f7-list-item>
@@ -125,23 +125,39 @@
       <f7-list-item link="/songs/song-118/" title="118. Слепой стоял у дороги, прося" panel-close></f7-list-item>  
       <f7-list-item link="/songs/song-119/" title="119. Слово" panel-close></f7-list-item>  
       <f7-list-item link="/songs/song-120/" title="120. Смолкли звуки дня" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-121/" title="121. Солнца закат золотистый" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-122/" title="122. Солнышка лучи" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-123/" title="123. Спасибо, Иисус" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-124/" title="124. Спор" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-125/" title="125. Сражение через Любовь" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-126/" title="126. Станем друзьями" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-127/" title="127. С тобой дружить хочет Бог!" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-128/" title="128. Сто дорог на земле" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-129/" title="129. Тает день" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-130/" title="130. Тайны горных вершин" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-131/" title="131. Так близко сейчас" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-132/" title="132. Там, далеко" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-133/" title="133. Только в Тебе" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-134/" title="134. Только Ты, Господь" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-135/" title="135. Тук-тук-тук" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-136/" title="136. Ты дал нам жизнь" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-137/" title="137. Ты искупил мир от греха" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-138/" title="138. Ты миру свет" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-139/" title="139. Ты не бойся" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-140/" title="140. Ты объемлешь меня" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-141/" title="141. Ты помни субботу" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-142/" title="142. Ты посмотри вокруг" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-143/" title="143. Ты пришёл в этот мир" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-144/" title="144. Ты со мной" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-145/" title="145. Ты только улыбнись" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-146/" title="146. Улыбнись навстречу ветру" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-147/" title="147. Учитель, внимаю Твоим поученьям" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-148/" title="148. Хвала Тебе" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-149/" title="149. Чемпион" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-150/" title="150. Что тaкое радость, милый друг" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-151/" title="151. Что этот свет?" panel-close></f7-list-item>  
+      <f7-list-item link="/songs/song-152/" title="152. Я дождусь" panel-close></f7-list-item>  
       <br><br><br>      
-      <!--
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-      <f7-list-item link="/songs/song-10/" title="10. " panel-close></f7-list-item>  
-
-      -->
-      <!--
-      <f7-list-item link="/songs/song-051/" title="061. " panel-close></f7-list-item>
-      -->
     </f7-list>
   </f7-page>
 </template>
